@@ -1,6 +1,6 @@
-# electrogics-crumb-circuit-simulator-test
-
 ### TFT Test 1
+
+Note: example code only, added code is not optimized.
 
 Files:
 
@@ -8,7 +8,6 @@ Files:
 * Wiring Diagram (CRUMB File): TFT_TEST1.cru
 
 ![1669839730030](images/ss-pong-game-iso.png)
-
 
 Serial Monitor Test
 
